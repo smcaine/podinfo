@@ -1,0 +1,7 @@
+resources:
+  - hpa.yaml
+  - deployment.yaml
+  # - service.yaml
+  - service-monitor.yaml
+  - gateway.yaml
+  - canary.yaml
